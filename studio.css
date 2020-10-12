@@ -1,0 +1,169 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+}
+
+.header-two
+{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/Colorful-Mehndi-Dresses05.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.header-two img
+{
+ float: left;
+ width: 170px;
+}
+.header-three
+{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/29.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.header-three img
+{
+ float: left;
+ width: 170px;
+}
+.header-four
+{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/here.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.header-four img
+{
+ float: left;
+ width: 170px;
+}
+.header-five
+{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/new1.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.header-five img
+{
+ float: left;
+ width: 170px;
+}
+.header-six
+{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/p2.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+}
+.header-six img
+{
+ float: left;
+ width: 170px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer
+{   
+    
+    padding: 100px 20px 20px;
+    background-image: linear-gradient(#fff,#f992a6);
+    color:#000;
+}
+.footer-logo
+{
+     width: 150px;
+     margin-top: 15px;
+     margin-bottom: 15px;
+}
+.footer  h4
+{
+ text-align: left;
+ margin-top: 15px;
+ margin-bottom: 25px;
+
+}
+.footer p
+{
+       font-size: 12px;
+       text-align: justify;
+       padding-right: 35px;
+}
+.footer .row .fa
+{
+    padding-right: 20px;
+    font-size: 15px;
+}
+.footer hr{
+    margin-top: 10px;
+    background:#efefef ;
+}
+
+.footer .copyright
+{
+    text-align: center;
+}
+.app_logo img
+{
+   width: 140px;
+}
+li
+{
+    list-style-type: none;
+}
+.container-fluid
+ {
+    background-color: #fff;
+  }
+  .gellery-box img
+
+{
+ width: 100%;
+ border-radius: 10px;
+ cursor: pointer;
+ transition: 1s;
+
+}
+.gellery-box img:hover
+{
+    transform: scale(1.1);
+}
